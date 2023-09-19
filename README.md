@@ -42,17 +42,17 @@ so if you want to say <b>hi, I'll be happy to meet you more! 😀</b>
 <br>
 
 ## 🏆 GitHub Trophies
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=AsutoshPati&no-frame=false&theme=default&margin-w=5)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ask-santosh&no-frame=false&theme=default&margin-w=5)
 
 ## 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AsutoshPati&limit=3&theme=default&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ask-santosh&limit=3&theme=default&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsutoshPati&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-santosh&layout=compact&theme=default)
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=AsutoshPati&show_icons=true&theme=default&hide=contribs,issues&size_weight=0.5&count_weight=0.5)
+![Github Status](https://github-readme-stats.vercel.app/api?username=ask-santosh&show_icons=true&theme=default&hide=contribs,issues&size_weight=0.5&count_weight=0.5)
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsutoshPati&theme=default)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-santosh&theme=default)
 
 ## ✍️ A Quote to Remember
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quote=It%E2%80%99s%20not%20a%20bug%3B%20it%E2%80%99s%20an%20undocumented%20feature.&author=Anonymous)
