@@ -5,7 +5,7 @@
 # Namaste 🙏
 <h4 align="center">
     <samp>
-        Hi there 👋  welcome to my Github! I'm <em style="font-size: 1.5rem">Asutosh Pati</em>; 
+        Hi there 👋  welcome to my Github! I'm <em style="font-size: 1.5rem">Santosh Behera</em>; 
         a <em style="font-size: 1.5rem">python developer</em> with a magical ability to turn code into solutions that surprise and delight! 🐍✨️
     </samp>
 </h4>
@@ -13,10 +13,9 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on **Model Self Driving Car | Augmented Reality**
 - 🌱 I’m currently exploring **Generative AI models | Cloud Computing**
-- 👨‍💻 All of my projects are available at [https://github.com/AsutoshPati?tab=repositories](https://github.com/AsutoshPati?tab=repositories)
 - 🏆 Grand Finalist of "**Smart India Hackathon 2017 & 2018**", "**DRUSE - 2018 by DRDO**"
 - 💬 Ask me Anything; If I know I will answer, otherwise I will learn
-- 📫 How to reach me; it's simple just mail me at **asutoshpati64@gmail.com**
+- 📫 How to reach me; it's simple just mail me at **santoshkumarb86@gmail.com**
 - ⚡ Fun fact: If you have my secrets & a encryption key, Hurray you are my true friend
 - :octopus: Multiple works, No problem I'm a **Multi Tasker**
 
