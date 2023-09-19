@@ -1,6 +1,3 @@
-<div align="center">
-    <img width="100%" height="auto" src="https://github.com/AsutoshPati/AsutoshPati/blob/76126d9c2f64a1c4751e725cca2a07572cacacb5/test.gif?raw=true" alt="cover" />
-</div>
 
 # Namaste 🙏
 <h4 align="center">
