@@ -11,9 +11,7 @@
 </h4>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Model Self Driving Car | Augmented Reality**
 - 🌱 I’m currently exploring **Generative AI models | Cloud Computing**
-- 🏆 Grand Finalist of "**Smart India Hackathon 2017 & 2018**", "**DRUSE - 2018 by DRDO**"
 - 💬 Ask me Anything; If I know I will answer, otherwise I will learn
 - 📫 How to reach me; it's simple just mail me at **santoshkumarb86@gmail.com**
 - ⚡ Fun fact: If you have my secrets & a encryption key, Hurray you are my true friend
