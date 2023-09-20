@@ -25,8 +25,8 @@ so if you want to say <b>hi, I'll be happy to meet you more! 😀</b>
 <p align="left">
     <a href="https://www.linkedin.com/in/santosh-behera-9b1b2a19b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ask-santosh" height="30" width="40" /></a>  
     <a href="[https://twitter.com/mu_asutosh_pati](https://twitter.com/AskSantosh86)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mu_asutosh_pati" height="30" width="40" /></a>
-    <a href="https://kaggle.com/asutoshpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asutoshpati" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/asutoshpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asutoshpati" height="30" width="40" /></a>
+    <a href="[https://kaggle.com/asutoshpati](https://www.kaggle.com/iamsantoshkumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ask-santosh" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/santoshkumarb86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ask-santosh" height="30" width="40" /></a>
 </p>
 <br><br>
 
