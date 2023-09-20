@@ -2,12 +2,12 @@
 <h4 align="center">
     <samp>
         Hi there 👋  welcome to my Github! I'm <em style="font-size: 1.5rem">Santosh Behera</em>; 
-        a <em style="font-size: 1.5rem">Artificial Intelligence Engineer</em>
+     <em style="font-size: 1.5rem">Artificial Intelligence Engineer</em>
     </samp>
 </h4>
 
 ## 💫 About Me:
-- 🌱 I’m currently exploring **Generative AI models | Cloud Computing**
+- 🌱 I’m currently exploring **Generative AI models | Cloud Computing | LLM **
 - 💬 Ask me Anything; If I know I will answer, otherwise I will learn
 - 📫 How to reach me; it's simple just mail me at **santoshkumarb86@gmail.com**
 - ⚡ Fun fact: If you have my secrets & a encryption key, Hurray you are my true friend
