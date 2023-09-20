@@ -46,10 +46,6 @@ so if you want to say <b>hi, I'll be happy to meet you more! 😀</b>
 ![Github Status](https://github-readme-stats.vercel.app/api?username=ask-santosh&show_icons=true&theme=default&hide=contribs,issues&size_weight=0.5&count_weight=0.5)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask-santosh&theme=default)
-## ✍️ A Quote to Remember
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quote=It%E2%80%99s%20not%20a%20bug%3B%20it%E2%80%99s%20an%20undocumented%20feature.&author=Anonymous)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="300px" />
----
 
 <div align="center">
     <em>Thank you 🙏 for visiting my profile; If you came so far, Please don't forget to connect / follow me.</em>
