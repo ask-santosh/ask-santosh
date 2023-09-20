@@ -1,9 +1,8 @@
 
-# Namaste 🙏
 <h4 align="center">
     <samp>
         Hi there 👋  welcome to my Github! I'm <em style="font-size: 1.5rem">Santosh Behera</em>; 
-        a <em style="font-size: 1.5rem">python developer</em> with a magical ability to turn code into solutions that surprise and delight! 🐍✨️
+        a <em style="font-size: 1.5rem">Artificial Intelligence Engineer</em>
     </samp>
 </h4>
 
