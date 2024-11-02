@@ -10,7 +10,6 @@
 - 🌱 I’m currently exploring **Generative AI models | Cloud Computing | LLM **
 - 💬 Ask me Anything; If I know I will answer, otherwise I will learn
 - 📫 How to reach me; it's simple just mail me at **santoshkumarb86@gmail.com**
-- ⚡ Fun fact: If you have my secrets & a encryption key, Hurray you are my true friend
 - :octopus: Multiple works, No problem I'm a **Multi Tasker**
 
 <br><br>
